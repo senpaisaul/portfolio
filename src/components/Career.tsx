@@ -15,6 +15,20 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
+                <h4>AI/Full-Stack Engineering Intern</h4>
+                <h5>Scalistro AI</h5>
+              </div>
+              <h3>2026&ndash;</h3>
+            </div>
+            <p>
+              May 2026 – Present. Building a 7-stage agentic UGC video-ad
+              generation pipeline on Heygen, plus a competitive ad-intelligence system running a
+              two-tier Claude pipeline over scraped Meta Ads data.
+            </p>
+          </div>
+          <div className="career-info-box">
+            <div className="career-info-in">
+              <div className="career-role">
                 <h4>AI Intern</h4>
                 <h5>WorkElate</h5>
               </div>
@@ -30,14 +44,14 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>GenAI Intern</h4>
+                <h4>GenAI Training Program</h4>
                 <h5>Smart Bridge × GCP</h5>
               </div>
               <h3>2025–26</h3>
             </div>
             <p>
-              Nov 2025 – Jan 2026. Trained and deployed ML models on GCP Vertex
-              AI — custom training pipelines, AutoML experiments, BigQuery
+              Nov 2025 – Jan 2026. Industry certification program: trained and
+              deployed ML models on GCP Vertex AI — custom training pipelines, AutoML experiments, BigQuery
               feature engineering. Built Cloud Function inference endpoints
               serving model predictions via REST.
             </p>
@@ -66,8 +80,8 @@ const Career = () => {
               <h3>2022–26</h3>
             </div>
             <p>
-              Final-year B.Tech Computer Science Engineering, graduating July
-              2026. CGPA 7.88. Shipped 6+ production AI systems during
+              B.Tech Computer Science Engineering, graduated July 2026. CGPA
+              7.93. Shipped 6+ production AI systems during
               college — from multi-agent pipelines to voice AI and financial
               forecasting.
             </p>
