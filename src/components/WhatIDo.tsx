@@ -136,10 +136,14 @@ const WhatIDo = () => {
               <div className="what-content-flex">
                 <div className="what-tags">FastAPI</div>
                 <div className="what-tags">Python (async)</div>
+                <div className="what-tags">TypeScript</div>
+                <div className="what-tags">React 18/19</div>
                 <div className="what-tags">Next.js 14/15</div>
+                <div className="what-tags">Node.js</div>
                 <div className="what-tags">WebSocket / SSE</div>
                 <div className="what-tags">Postgres / Supabase</div>
-                <div className="what-tags">GCP Vertex AI</div>
+                <div className="what-tags">MongoDB</div>
+                <div className="what-tags">Three.js / R3F</div>
                 <div className="what-tags">Docker</div>
               </div>
               <div className="what-arrow"></div>
