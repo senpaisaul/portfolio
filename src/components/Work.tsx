@@ -19,6 +19,13 @@ const projects = [
     link: "https://sparsaos.vercel.app",
   },
   {
+    title: "Ad Intelligence Pipeline",
+    category: "Competitive Meta Ads Analysis",
+    tools: "Claude Haiku/Opus Two-Tier Pipeline, Apify, FastAPI, Next.js 14",
+    image: "/images/github-card.png",
+    link: "https://github.com/senpaisaul/brandora",
+  },
+  {
     title: "UniQuant",
     category: "4-Layer Financial Forecasting",
     tools: "Chronos T5-Small, GJR-GARCH, Gaussian HMM, Conformal Calibration, FastAPI",
@@ -30,21 +37,14 @@ const projects = [
     category: "Real-Time Voice Pipeline",
     tools: "Twilio Media Streams, Deepgram Nova-3, GPT-4o-mini, ElevenLabs, WebSocket",
     image: "/images/github-card.png",
-    link: "https://github.com/senpaisaul",
+    link: "https://github.com/senpaisaul/Sei-Wise-Customer-Support",
   },
   {
     title: "Multi-Agent DSA Solver",
     category: "Meta HackerCup '25 AI Track Finalist",
     tools: "LangGraph, GPT-4o, 6-Agent Pipeline, Chain-of-Thought Reasoning",
     image: "/images/github-card.png",
-    link: "https://github.com/senpaisaul",
-  },
-  {
-    title: "Compliance RAG API",
-    category: "Regulatory Document Verification",
-    tools: "FastAPI, LangChain LCEL, FAISS, GPT-4o, BeautifulSoup",
-    image: "/images/github-card.png",
-    link: "https://github.com/senpaisaul",
+    link: "https://github.com/senpaisaul/multi-agent-dsa-solver",
   },
 ];
 
